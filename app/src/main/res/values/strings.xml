@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top App Bar</string>
+    <string name="action_favorite">action_favorite</string>
+    <string name="action_settings">action_settings</string>
+
+    <string name="title_activity_child">action_settings</string>
+    <string name="action_search">action_settings</string>
+    <string name="share">action_settings</string>
+
+</resources>
